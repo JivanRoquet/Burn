@@ -1,0 +1,4 @@
+jro_burn:
+    resource: "@JROBurnBundle/Resources/config/routing.yml"
+    prefix:   /
+
